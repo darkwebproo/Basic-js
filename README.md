@@ -1,1 +1,1 @@
-# LWSBasic-JS
+# Basic-JS
